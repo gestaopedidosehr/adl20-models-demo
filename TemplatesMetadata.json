@@ -17,5 +17,11 @@
     "name" : "Encounter",
     "path" : "templates/openEHR-EHR-COMPOSITION.templateopt.v1.adlt",
     "sha" : "4f4e376aaa62a3fd2acb3dfc55711806ccc2e5eb"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.pppp.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.pppp.v1.adlt",
+    "sha" : "07c4c0aedb9a48e3be3de9176a2e9ce3bde8b066"
   } ]
 }
