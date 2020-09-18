@@ -314,5 +314,8 @@
     "path" : "archetypes/openEHR-EHR-ACTION.ah_pois_e.v1.adls",
     "sha" : "f653365f777e252be1a0b7d8f91e43a8af544674",
     "languages" : [ "en" ]
+  }, {
+    "path" : "archetypes/openEHR-EHR-ACTION.olaaaaa.v1.adls",
+    "sha" : "df66e156bddfa6234500dde1ed53eb5d056bccff"
   } ]
 }
