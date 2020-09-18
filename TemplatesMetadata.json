@@ -35,5 +35,11 @@
     "name" : "Encounter",
     "path" : "templates/openEHR-EHR-COMPOSITION.testetetetetteee.v1.adlt",
     "sha" : "9d715b092c1697447d7ccd3d15065351f32a8578"
+  }, {
+    "id" : "openEHR-EHR-COMPOSITION.testinho.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.testinho.v1.adlt",
+    "sha" : "6617fe58b6bba3d2d9acdf359fa8ece407d2a3a0"
   } ]
 }
