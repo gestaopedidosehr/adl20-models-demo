@@ -1,1 +1,1 @@
-{"AdlVersion":"2.0.4","ConversionDetails":[],"Definition":[],"ArchetypeId":"openEHR-EHR-ADMIN_ENTRY.rrrr.v1.0.0"}
+{"AdlVersion":"2.0.4","ConversionDetails":[],"Definition":[{"children":[],"isMultiple":false,"rmAttributeName":"data"},{"children":[],"isMultiple":false,"rmAttributeName":"other_participations"}],"ArchetypeId":"openEHR-EHR-ADMIN_ENTRY.rrrr.v1.0.0"}
