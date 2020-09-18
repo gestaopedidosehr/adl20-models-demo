@@ -265,5 +265,12 @@
     "path" : "archetypes/openEHR-EHR-ACTION.arch_test.v1.adls",
     "sha" : "45d72d3832d28bff0304ab22032dbe4108cb6675",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.eeee.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "eeee",
+    "path" : "archetypes/openEHR-EHR-ACTION.eeee.v1.adls",
+    "sha" : "6138ef441d5231af34e5b64a268773831ae7ac24",
+    "languages" : [ "en" ]
   } ]
 }
