@@ -286,5 +286,12 @@
     "path" : "archetypes/openEHR-EHR-ACTION.sadasdada.v1.adls",
     "sha" : "dcde3f09a0aa609107be23463e209cb1ae636439",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.sss.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "sss",
+    "path" : "archetypes/openEHR-EHR-ACTION.sss.v1.adls",
+    "sha" : "b9f830ffb58c507b2f74d962fbe158916e8a8d5a",
+    "languages" : [ "en" ]
   } ]
 }
