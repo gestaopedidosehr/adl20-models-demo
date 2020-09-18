@@ -279,5 +279,12 @@
     "path" : "archetypes/openEHR-EHR-ACTION.vamos.v1.adls",
     "sha" : "cc9b3093cddf435b68c48915b64eaae4c6f96134",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.sadasdada.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "sadasdada",
+    "path" : "archetypes/openEHR-EHR-ACTION.sadasdada.v1.adls",
+    "sha" : "dcde3f09a0aa609107be23463e209cb1ae636439",
+    "languages" : [ "en" ]
   } ]
 }
