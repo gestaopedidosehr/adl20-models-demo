@@ -15,7 +15,10 @@ description
     lifecycle_state = <"unmanaged">
 
 definition
-    ACTION[id1]     -- vamos
+    ACTION[id1] matches {    -- vamos
+        instruction_details
+        description
+    }
 
 terminology
     term_definitions = <
