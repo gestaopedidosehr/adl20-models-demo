@@ -307,5 +307,12 @@
     "path" : "archetypes/openEHR-EHR-ACTION.dsdsdsd.v1.adls",
     "sha" : "8064b48db1c0697be0a46292ca4ae47b4ff4cfb9",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.ah_pois_e.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "ah pois e",
+    "path" : "archetypes/openEHR-EHR-ACTION.ah_pois_e.v1.adls",
+    "sha" : "f653365f777e252be1a0b7d8f91e43a8af544674",
+    "languages" : [ "en" ]
   } ]
 }
