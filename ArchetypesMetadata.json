@@ -251,5 +251,12 @@
     "path" : "archetypes/openEHR-EHR-ACTION.sws.v1.adls",
     "sha" : "277544b79d68484e81107d4af8ba7fc1ce44ede2",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.xw.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "xw",
+    "path" : "archetypes/openEHR-EHR-ACTION.xw.v1.adls",
+    "sha" : "ba5923ef02d6d660d7858cccba2035c6371a722a",
+    "languages" : [ "en" ]
   } ]
 }
